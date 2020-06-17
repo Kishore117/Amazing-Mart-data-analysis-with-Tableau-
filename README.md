@@ -3,13 +3,10 @@ Analyzing the sales data in each category, weather the particular category sales
 # Step by Step Analysis of Data
 1) Sum of the sales.
 ![alt text](https://github.com/Kishore117/Amazing-Mart-data-analysis-with-Tableau-/blob/master/assets/Sum%20of%20sales.png?raw=true)
-
 2) Sum of the sales along with different category.
 ![alt text](https://github.com/Kishore117/Amazing-Mart-data-analysis-with-Tableau-/blob/master/assets/sales%20with%20category.png?raw=true)
-
 3) Dividing the sales according to the category.
 ![alt text](https://github.com/Kishore117/Amazing-Mart-data-analysis-with-Tableau-/blob/master/assets/sales%20with%20different%20category.png?raw=true)
-
 4) Analyzing the sales and target with different category for every month. 
 ![alt text](https://github.com/Kishore117/Amazing-Mart-data-analysis-with-Tableau-/blob/master/assets/sales%20and%20target.png?raw=true)
 
